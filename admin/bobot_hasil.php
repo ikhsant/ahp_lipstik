@@ -110,7 +110,7 @@
 		<br>
 
 		<a href='javascript:history.back()'>
-			<button class="ui left labeled icon button">
+			<button class="btn btn-danger btn-lg">
 				<i class="left arrow icon"></i>
 				Kembali
 			</button>
